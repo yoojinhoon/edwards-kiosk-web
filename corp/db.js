@@ -11,7 +11,7 @@
       title: '블루가',
       logoFull: 'DB/blg/imgs/corp/logoFull.png',
       logoTitle: 'DB/blg/imgs/corp/logoTitle.png',
-      corpURL: 'http://www.bluega.com',
+      corpURL: '',
     },
     system: {
       exeItrURL: !0,
