@@ -1,0 +1,51 @@
+/* ============================================================
+   1. Calibri Font Family
+   ============================================================ */
+
+/* Calibri - Regular */
+@font-face {
+  font-family: 'Calibri';
+  src:
+    url('../fonts/Calibri/Calibri.woff2') format('woff2'),
+    url('../fonts/Calibri/Calibri.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Calibri - Bold */
+@font-face {
+  font-family: 'Calibri';
+  src:
+    url('../fonts/Calibri/Calibri-Bold.woff2') format('woff2'),
+    url('../fonts/Calibri/Calibri-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ============================================================
+   2. Malgun Gothic Font Family
+   ============================================================ */
+
+/* 맑은 고딕 - Regular */
+@font-face {
+  font-family: 'Malgun Gothic';
+  src:
+    url('../fonts/Malgun Gothic/Malgun Gothic.woff2') format('woff2'),
+    url('../fonts/Malgun Gothic/Malgun Gothic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 맑은 고딕 - Bold */
+@font-face {
+  font-family: 'Malgun Gothic';
+  src:
+    url('../fonts/Malgun Gothic/Malgun Gothic-Bold.woff2') format('woff2'),
+    url('../fonts/Malgun Gothic/Malgun Gothic-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
